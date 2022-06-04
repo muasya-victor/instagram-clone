@@ -1,8 +1,8 @@
 <template>
 
-  <div class="bg-white shadow md:h-20 flex items-center justify-between">
+  <div class="bg-white shadow md:h-20 flex items-center justify-around">
     <!--header image -->
-    <img src="../assets/index.png" class="h-1/3 md:h-full w-1/3 bg-contain p-2">
+    <img src="../assets/index.png" class="h-1/3 md:h-full w-1/3 md:w-fit bg-contain p-2">
 
 
     <div>
